@@ -14,6 +14,7 @@ It is a web application that allows users to update the information of the produ
 
 • A superadmin user can allow or disallow the addition, editing, or deletion of products, as well as view all users of the application.
 • A series of authorized users who can access the product stock and, if allowed by the superadmin, add, edit, or delete products.
+• To start the application, it should be accessed through a server, such as Apache, to read the PHP files, starting with the index.php file.
 
 
 ## 🚀 Technologies
