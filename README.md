@@ -12,9 +12,11 @@
 
 It is a web application that allows users to update the information of the products currently in stock in a store. Among the main functionalities are:
 
-• A superadmin user can allow or disallow the addition, editing, or deletion of products, as well as view all users of the application.
-• A series of authorized users who can access the product stock and, if allowed by the superadmin, add, edit, or delete products.
-• To start the application, it should be accessed through a server, such as Apache, to read the PHP files, starting with the index.php file.
+<ul>
+  <li>• A superadmin user can allow or disallow the addition, editing, or deletion of products, as well as view all users of the application.</li>
+  <li>• A series of authorized users who can access the product stock and, if allowed by the superadmin, add, edit, or delete products.</li>
+  <li>• To start the application, it should be accessed through a server, such as Apache, to read the PHP files, starting with the index.php file.</li>
+</ul>
 
 
 ## 🚀 Technologies
@@ -26,10 +28,11 @@ All the necessary files for executing the functions implemented in this applicat
 
 Main objective: To develop a system that allows the management of a store's products and the permissions to do so.
 Specific objectives:
-
-• Develop access for different types of users to the system.
-• Develop a system so that the superadmin can access the list of users and change permissions for the products.
-• Develop the product management system (add, edit, and delete) and its consultation.
+<ul>
+  <li>• Develop access for different types of users to the system.</li>
+  <li>• Develop a system so that the superadmin can access the list of users and change permissions for the products.</li>
+  <li>• Develop the product management system (add, edit, and delete) and its consultation.</li>
+</ul>
 
 ## 🌎 Contact
 If you have some doubts or need to ask something about the project, feel free to reach me here:
